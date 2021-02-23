@@ -41,3 +41,11 @@
     font-weight: bold;
 }
 
+
+.course-card ::ng-deep .course-description {
+    max-width: 360px;
+    margin: 0 auto;
+    margin-top: 15px;
+  user-select: none;
+}
+
